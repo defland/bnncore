@@ -1,0 +1,6 @@
+usr/local/bin/bluenode-qt usr/bin
+share/pixmaps/bluenode32.xpm usr/share/pixmaps
+share/pixmaps/bluenode16.xpm usr/share/pixmaps
+share/pixmaps/bluenode128.png usr/share/pixmaps
+debian/bluenode-qt.desktop usr/share/applications
+debian/bluenode-qt.protocol usr/share/kde4/services/

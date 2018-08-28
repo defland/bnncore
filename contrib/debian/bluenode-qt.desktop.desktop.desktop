@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bluenode
+Comment=Bluenode P2P Cryptocurrency
+Exec=bluenode-qt %u
+Terminal=false
+Type=Application
+Icon=bluenode128
+MimeType=x-scheme-handler/bluenode;
+Categories=Office;Finance;
+Name[en_US]=bluenode-qt.desktop.desktop
